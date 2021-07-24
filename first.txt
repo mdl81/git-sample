@@ -1,4 +1,5 @@
 Hello, GIT!
 Add new line.
+Master.
 Second edit.
 in branch
